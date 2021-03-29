@@ -1,0 +1,45 @@
+body {
+    background-color: #f2eadd;
+}
+
+h1 {
+    font-family: Impact; 
+    text-align: center; font-size: 45px; 
+    background-color: #CEC1AC;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 40px;
+    text-align: center; 
+    color: #2B2B29;
+}
+
+h2 {
+    font-family: Arial; 
+    text-align: center; 
+    font-size: 35px;
+}
+
+.logo-etec {
+    position: relative;
+    left: 515px;
+}
+
+.etec {
+    position: relative;
+    left: 390px;
+}
+
+.developer {
+    position: relative;
+    left: 290px;
+}
+
+.edu-parag {
+    font-size: 30px;
+}
+
+.ali-parag {
+    font-size: 25px;
+}
